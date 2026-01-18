@@ -62,6 +62,38 @@ No coding knowledge is required to customize the plugin.
 
 ---
 
+## 🔑 Commands & Permissions
+
+* **`/luckyshop`**
+  Opens the LuckyShop menu for players.
+
+* **`/luckyshop reload`**
+  Reloads the plugin configuration.
+  **Permission:** `luckyshop.admin`
+
+* **`/luckyshop sifirla`**
+  Manually resets the market.
+  **Permission:** `luckyshop.admin`
+
+---
+
+## 🧩 Placeholder Support
+
+LuckyShop provides a built-in placeholder that can be used with holograms, scoreboards, or other placeholder-compatible plugins:
+
+* **`%luckyshop_timer%`**
+  Shows the remaining time until the next market reset.
+
+---
+
+## 🚧 Project Status
+
+⚠️ **LuckyShop is currently not available for download on any platform.**
+The plugin is under active development and continuously improved.
+It will be released publicly once it reaches a stable and production-ready state.
+
+---
+
 ## 🎯 Use Cases
 
 * Survival servers with controlled economies
